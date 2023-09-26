@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Enthusiast
 
 ### Technical Skills: Python, SQL, AWS, Snowflake
 
