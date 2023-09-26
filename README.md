@@ -1,11 +1,18 @@
 # Data Enthusiast
 
-### Technical Skills: Python, SQL, AWS, Snowflake
+### Technical Skills: Python, SQL, AWS, Tableau, Excel
 
 ## Education
 - Ph.D., Physics w/ minor Data Science | Georgia Tech (_May 2023_)								       		
 - M.S., Physics	| UMass Dartmouth (_May 2017_)	 			        		
 - B.S., Physics | Gujarat Tech University (_May 2013_)
+
+## Projects
+IceCube Neutrino Observatory:
+- Analyzed over 8 years of data, over 100k events per year, using Python and C++ coding libraries
+- Advised on 6 reports in an international organization of over 300 scientists
+- Evaluated performance of search by developing tests to pass internal review
+- Developed and prototyped analysis pipelines to provide comprehensive knowledge of data structures
 
 ## Publications
 [A Time-Variability Test for Candidate Neutrino Source Observed in IceCube](https://arxiv.org/abs/2110.06294)
