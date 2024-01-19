@@ -1,11 +1,17 @@
 # Data Enthusiast
 
-### Technical Skills: Python, SQL, AWS, Tableau, Excel
+## Professional Experience
+- State Road & Tollway Authority
 
 ## Education
 - Ph.D., Physics w/ minor Data Science | Georgia Tech (_May 2023_)								       		
 - M.S., Physics	| UMass Dartmouth (_May 2017_)	 			        		
 - B.S., Physics | Gujarat Tech University (_May 2013_)
+
+## Technical Skills
+- Languages: Python, C++, SQL, Javascript
+- Frameworks & Libraries: Numpy, Pandas, scikit-learn
+- Tools & OS: Apache Hadoop, MS Excel, MySQL, Tableau, Linux, MacOS, Windows
 
 ## Projects
 IceCube Neutrino Observatory:
